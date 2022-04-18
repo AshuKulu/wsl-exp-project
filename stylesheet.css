@@ -1,0 +1,70 @@
+.headtop{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width :100vw;
+    height :15px;
+    background-color: #eee;
+    margin-bottom: 20px;
+}
+.headbox{
+    display: flex;
+    padding: 2px;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(172, 172, 172);
+    color: black;
+    flex: 1;
+}
+.nav{
+    display: flex;
+    align-items: center;
+    width :100vw;
+    height :20px;
+    background-color: #eee;
+}
+.navbox{
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 0, 0);
+    color: #eee;
+    flex: 1;
+    margin: 5px;
+}
+.name{
+    padding: 20px 100px 20px 100px;
+    text-align: center;
+}
+.table{
+    border: 2px solid black;
+    text-align:center;
+    background-color: #FBFCFC;
+    color: black;
+    width: 20vw;
+}
+.topic{
+    font-size: 20px;
+    font-weight: bold;
+}
+.para{
+    font-size: 14px;
+    text-align:center
+}
+.photo{
+    height: 200px;
+    width: 200px;
+}
+.foot{
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.link{
+    margin: 30px;
+}
